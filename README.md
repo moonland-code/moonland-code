@@ -17,13 +17,6 @@
 ### 🛠️ Tools & Tech
 ![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,py,cpp,github,vscode,git,mysql)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moonland-code&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=iTzArshia&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-#
 
 ---
 
