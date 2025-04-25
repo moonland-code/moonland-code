@@ -28,7 +28,8 @@
 
 ## 🐍 Snake Contributions
 
-![snake gif](https://raw.githubusercontent.com/moonland-code/moonland-code/output/github-contribution-grid-snake.svg)
+![Snake Dark](https://raw.githubusercontent.com/moonland-code/moonland-code/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
