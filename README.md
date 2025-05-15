@@ -10,8 +10,6 @@
 
 ## 🚀 What I'm Doing
 ### 🧠 Learning & Building
-- Discord bots with Node.js & Python
-- Minecraft datapacks (like Endborn)
 - Websites with React, Tailwind CSS, Next.js
 
 ### 🛠️ Tools & Tech
