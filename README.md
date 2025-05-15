@@ -2,9 +2,8 @@
 **aka moonland-code**
 
 🌙 13 y/o self-taught developer from Iran  
-🎮 I build bots, servers, websites and cool projects  
-🧠 Love learning new things, currently exploring Rust & MicroPython  
-⚡ Founder of cool ideas and a big fan of Minecraft modding
+🎮 I build  websites and cool projects  
+🧠 Love learning new things, currently exploring React
 
 ---
 
