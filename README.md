@@ -1,7 +1,7 @@
 # Hi, I'm Taha 👋  
 **aka moonland-code**
 
-🌙 14 y/o self-taught developer from Iran  
+🌙 developer from Iran  
 🎮 I build  websites and cool projects  
 🧠 Love learning new things, currently exploring React
 
