@@ -6,7 +6,7 @@
 🧠 Love learning new things, currently exploring React
 
 ---
-
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonland-code&show_icons=true&hide=contribs&count_private=true&show=reviews,discussions_started,discussions_answered,joined)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 What I'm Doing
 ### 🧠 Learning & Building
 - Websites with React, Tailwind CSS, Next.js
